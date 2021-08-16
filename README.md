@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Beta-guy
+- 👀 I’m interested in programming and computers in general
+- 🌱 I’m currently learning Rust
